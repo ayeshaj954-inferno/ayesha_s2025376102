@@ -2,8 +2,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Name |
-| **Student ID** | S2025376 |
+| **Student Name** | Ayesha Javaid|
+| **Student ID** | S2025376102 |
 
 ---
 
